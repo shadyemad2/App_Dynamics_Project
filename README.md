@@ -176,5 +176,5 @@ This project provides a **complete full-stack monitoring example** that connects
 
 ### 👨‍💻 Author
 **Shady Emad Wahib Farahat**  
-Junior System Administrator | DevOps & Cloud Enthusiast
+ System Administrator | DevOps & Cloud 
 
