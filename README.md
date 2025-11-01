@@ -161,15 +161,7 @@ You should see live data between the **Node.js app**, **MongoDB**, and **Browser
 
 ---
 
-## 📸 Screenshots (add later)
-- Application Flow Map  
-- Node.js Tier Metrics  
-- MongoDB Tier Metrics  
-- Browser RUM Dashboard  
-- Custom Dashboard View  
-- Alert Configuration  
 
----
 
 ## 🏁 Summary
 
